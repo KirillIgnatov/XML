@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <title>Date in Calendario Economico not translated on selected language</title>
+   <steps>
+      <first>Navigate to website.com</first>
+      <second>Choice language  except EN</second>
+      <third>Scroll down to block Calendario Economico</third>
+  </steps>
+  <expected>Date in Calendario Economico is translated in selected language</expected>
+  <actual>Date in Calendario Economico isn't translated in selected language</actual>
+</xml>
