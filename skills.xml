@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <skills>
+   <1>HTTP-запросы</1>
+   <2>Снятие и чтение логов c внешнего сервера</2>
+   <3>Снифинг http web трафика через Charles и Fiddler</3>
+   <4>Dev Tools веб браузеров</4>
+   <5>Настройка прокси и vpn на iOS и Android</5>
+   <6>Командная строка (terminal) Linux</6>
+  </skills>
+</xml>
